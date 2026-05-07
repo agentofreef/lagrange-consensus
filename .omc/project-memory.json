@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778124611825,
+  "projectRoot": "/Users/tom/novel",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "worldview": {
+      "path": "worldview",
+      "purpose": null,
+      "fileCount": 15,
+      "lastAccessed": 1778124611819,
+      "keyFiles": [
+        "01-cartel-overview.md",
+        "02-tier1-smart.md",
+        "03-tier2-foolish.md",
+        "04-old-america-death.md",
+        "05-performance-economics.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "worldview/军事/timeline.md",
+      "accessCount": 8,
+      "lastAccessed": 1778127782034,
+      "type": "file"
+    },
+    {
+      "path": "worldview/政治/timeline.md",
+      "accessCount": 4,
+      "lastAccessed": 1778128251047,
+      "type": "file"
+    },
+    {
+      "path": "worldview/拉格朗日共识/machinery.md",
+      "accessCount": 3,
+      "lastAccessed": 1778125648985,
+      "type": "file"
+    },
+    {
+      "path": "worldview/人物档案/反对者档案-披露真相的人.md",
+      "accessCount": 2,
+      "lastAccessed": 1778125042765,
+      "type": "file"
+    },
+    {
+      "path": "worldview/月壤/timeline.md",
+      "accessCount": 2,
+      "lastAccessed": 1778128182623,
+      "type": "file"
+    },
+    {
+      "path": "worldview/README.md",
+      "accessCount": 2,
+      "lastAccessed": 1778128315571,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
