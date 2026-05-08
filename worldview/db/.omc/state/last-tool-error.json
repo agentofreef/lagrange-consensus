@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"echo \\\"=== 时间倒置因果链 IDs ===\\\" && sqlite3 worldview.db \\\"\\nSELECT fc.id, fc.relationship_type, fc.cause_fact_id, fc.effect_fact_id, c.year, e.year, substr(c.title,1,30), substr(e.title,1,30)...",
+  "error": "Exit code 1\n=== 时间倒置因果链 IDs ===\nError: in prepare, no such column: fc.id\n   SELECT fc.id, fc.relationship_type, fc.cause_fact_id, fc.effect_fact_id, c.ye\n          ^--- error here",
+  "timestamp": "2026-05-08T12:46:35.738Z",
+  "retry_count": 1
+}
