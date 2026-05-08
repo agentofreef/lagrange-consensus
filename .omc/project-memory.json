@@ -46,14 +46,14 @@
   "hotPaths": [
     {
       "path": "worldview/小说素材/章节目录.md",
-      "accessCount": 31,
-      "lastAccessed": 1778261449193,
+      "accessCount": 42,
+      "lastAccessed": 1778262444926,
       "type": "file"
     },
     {
       "path": "worldview/人物档案/Tom-Hartwell（美国蓝领）.md",
-      "accessCount": 4,
-      "lastAccessed": 1778260964857,
+      "accessCount": 5,
+      "lastAccessed": 1778261618648,
       "type": "file"
     },
     {
@@ -78,6 +78,12 @@
       "path": "worldview/人物档案/Kevin-OBrien（美国年轻程序员）.md",
       "accessCount": 2,
       "lastAccessed": 1778261412893,
+      "type": "file"
+    },
+    {
+      "path": "章节/第01章-文件.md",
+      "accessCount": 2,
+      "lastAccessed": 1778263808953,
       "type": "file"
     },
     {
