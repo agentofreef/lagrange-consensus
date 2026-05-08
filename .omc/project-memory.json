@@ -46,8 +46,38 @@
   "hotPaths": [
     {
       "path": "worldview/小说素材/章节目录.md",
-      "accessCount": 14,
-      "lastAccessed": 1778258362604,
+      "accessCount": 31,
+      "lastAccessed": 1778261449193,
+      "type": "file"
+    },
+    {
+      "path": "worldview/人物档案/Tom-Hartwell（美国蓝领）.md",
+      "accessCount": 4,
+      "lastAccessed": 1778260964857,
+      "type": "file"
+    },
+    {
+      "path": "worldview/06-soft-influence.md",
+      "accessCount": 2,
+      "lastAccessed": 1778259950175,
+      "type": "file"
+    },
+    {
+      "path": "worldview/07-trust-as-asset.md",
+      "accessCount": 2,
+      "lastAccessed": 1778259950566,
+      "type": "file"
+    },
+    {
+      "path": "worldview/人物档案/Maria-Hernandez（美国中产家庭主妇）.md",
+      "accessCount": 2,
+      "lastAccessed": 1778261394551,
+      "type": "file"
+    },
+    {
+      "path": "worldview/人物档案/Kevin-OBrien（美国年轻程序员）.md",
+      "accessCount": 2,
+      "lastAccessed": 1778261412893,
       "type": "file"
     },
     {
@@ -60,24 +90,6 @@
       "path": "worldview/11-phase-shift-armor.md",
       "accessCount": 1,
       "lastAccessed": 1778257478439,
-      "type": "file"
-    },
-    {
-      "path": "worldview/人物档案/Tom-Hartwell（美国蓝领）.md",
-      "accessCount": 1,
-      "lastAccessed": 1778257633224,
-      "type": "file"
-    },
-    {
-      "path": "worldview/人物档案/Maria-Hernandez（美国中产家庭主妇）.md",
-      "accessCount": 1,
-      "lastAccessed": 1778257704406,
-      "type": "file"
-    },
-    {
-      "path": "worldview/人物档案/Kevin-OBrien（美国年轻程序员）.md",
-      "accessCount": 1,
-      "lastAccessed": 1778257773472,
       "type": "file"
     },
     {
