@@ -46,8 +46,8 @@
   "hotPaths": [
     {
       "path": "worldview/小说素材/章节目录.md",
-      "accessCount": 42,
-      "lastAccessed": 1778262444926,
+      "accessCount": 47,
+      "lastAccessed": 1778272727732,
       "type": "file"
     },
     {
@@ -57,9 +57,21 @@
       "type": "file"
     },
     {
+      "path": "章节/第02章-沉默的四秒.md",
+      "accessCount": 6,
+      "lastAccessed": 1778271437563,
+      "type": "file"
+    },
+    {
       "path": "worldview/人物档案/Tom-Hartwell（美国蓝领）.md",
       "accessCount": 5,
       "lastAccessed": 1778261618648,
+      "type": "file"
+    },
+    {
+      "path": "章节/第03章-春天.md",
+      "accessCount": 4,
+      "lastAccessed": 1778278274289,
       "type": "file"
     },
     {
@@ -114,12 +126,6 @@
       "path": "worldview/人物档案/赵建军（中国月轨指挥官）.md",
       "accessCount": 1,
       "lastAccessed": 1778257977326,
-      "type": "file"
-    },
-    {
-      "path": "章节/第02章-沉默的四秒.md",
-      "accessCount": 1,
-      "lastAccessed": 1778270586034,
       "type": "file"
     }
   ],
