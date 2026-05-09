@@ -78,3 +78,8 @@
 {"t":0,"agent":"system","event":"skill_invoked","skill_name":"pov-check"}
 {"t":0,"agent":"system","event":"skill_invoked","skill_name":"timeline-check"}
 {"t":0,"agent":"a9f7436","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a35b576","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a71ad81","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a2e7deb","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"ac6288e","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a4cd84d","agent_type":"unknown","event":"agent_stop","success":true}

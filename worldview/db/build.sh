@@ -52,6 +52,8 @@ EXTENSIONS=(
     "seed_2035_media_downplay.sql"
     "seed_characters_extended.sql"
     "seed_chapter13_6year_prep.sql"
+    "seed_chapter14_populace.sql"
+    "seed_chapter16_red_phone.sql"
     "seed_fixes_logic.sql"
 )
 

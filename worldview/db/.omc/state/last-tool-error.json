@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls /Users/tom/novel/.claude/skills/ 2>&1\",\"description\":\"Check existing skills\"}",
-  "error": "Exit code 1\nls: /Users/tom/novel/.claude/skills/: No such file or directory",
-  "timestamp": "2026-05-09T16:40:29.899Z",
-  "retry_count": 2
+  "tool_input_preview": "{\"command\":\"python3 /Users/tom/novel/worldview/db/queries/timeline_check.py --resolve-fact \\\"民众实际购买力\\\" 2>&1; echo \\\"---\\\"; python3 /Users/tom/novel/worldview/db/queries/timeline_check.py --resolve-fac...",
+  "error": "Exit code 1\n\n=== resolve_fact ===\nid=653 | year=2064 | half=1 | domain=民生 | title=全球能源价格\"过剩\"固定化的民众红利 | visibility_level=1 | has_public_lie=1 | importance=5\n---\n\n=== resolve_fact ===\nERROR: no match: Mackenzie 当选",
+  "timestamp": "2026-05-09T18:10:53.018Z",
+  "retry_count": 1
 }
