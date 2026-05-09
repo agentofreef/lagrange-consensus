@@ -199,6 +199,12 @@
       "type": "file"
     },
     {
+      "path": "worldview/db/seed_characters_extended.sql",
+      "accessCount": 2,
+      "lastAccessed": 1778348917245,
+      "type": "file"
+    },
+    {
       "path": "worldview/05-performance-economics.md",
       "accessCount": 1,
       "lastAccessed": 1778257476966,
@@ -265,9 +271,15 @@
       "type": "file"
     },
     {
-      "path": "worldview/db/seed_characters_extended.sql",
+      "path": "章节/第13章-6年准备.md",
       "accessCount": 1,
-      "lastAccessed": 1778346967670,
+      "lastAccessed": 1778348668085,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/seed_chapter13_6year_prep.sql",
+      "accessCount": 1,
+      "lastAccessed": 1778348987307,
       "type": "file"
     }
   ],
