@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"python3 worldview/db/queries/timeline_check.py --resolve-fact \\\"嫦娥村扩建\\\" 2>&1\",\"description\":\"resolve嫦娥村扩建\"}",
+  "error": "Exit code 1\n\n=== resolve_fact ===\nERROR: no match: 嫦娥村扩建",
+  "timestamp": "2026-05-09T17:11:44.815Z",
+  "retry_count": 4
+}

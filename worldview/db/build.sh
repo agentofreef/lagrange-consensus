@@ -50,6 +50,7 @@ EXTENSIONS=(
     "seed_future_tripartite.sql"
     "seed_ai_dimension.sql"
     "seed_2035_media_downplay.sql"
+    "seed_characters_extended.sql"
     "seed_fixes_logic.sql"
 )
 

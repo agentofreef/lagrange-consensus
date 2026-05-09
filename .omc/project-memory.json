@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1778256004200,
+  "lastScanned": 1778346542043,
   "projectRoot": "/Users/tom/novel",
   "techStack": {
     "languages": [],
@@ -25,7 +25,10 @@
     "isMonorepo": false,
     "workspaces": [],
     "mainDirectories": [],
-    "gitBranches": null
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
   },
   "customNotes": [],
   "directoryMap": {
@@ -33,13 +36,26 @@
       "path": "worldview",
       "purpose": null,
       "fileCount": 16,
-      "lastAccessed": 1778256004186,
+      "lastAccessed": 1778346542038,
       "keyFiles": [
         "01-cartel-overview.md",
         "02-tier1-smart.md",
         "03-tier2-foolish.md",
         "04-old-america-death.md",
         "05-performance-economics.md"
+      ]
+    },
+    "章节": {
+      "path": "章节",
+      "purpose": null,
+      "fileCount": 12,
+      "lastAccessed": 1778346542039,
+      "keyFiles": [
+        "第01章-文件.md",
+        "第02章-沉默的四秒.md",
+        "第03章-春天.md",
+        "第04章-印第安纳的工厂.md",
+        "第05章-浙江的工厂.md"
       ]
     }
   },
@@ -52,8 +68,20 @@
     },
     {
       "path": "章节/第09章-双轨叙事.md",
-      "accessCount": 16,
-      "lastAccessed": 1778337239182,
+      "accessCount": 22,
+      "lastAccessed": 1778347990321,
+      "type": "file"
+    },
+    {
+      "path": "章节/第11章-军事维度的转向.md",
+      "accessCount": 15,
+      "lastAccessed": 1778347490211,
+      "type": "file"
+    },
+    {
+      "path": "章节/第03章-春天.md",
+      "accessCount": 13,
+      "lastAccessed": 1778347871410,
       "type": "file"
     },
     {
@@ -63,9 +91,15 @@
       "type": "file"
     },
     {
-      "path": "章节/第03章-春天.md",
+      "path": "章节/第12章-边界1米.md",
+      "accessCount": 10,
+      "lastAccessed": 1778347511884,
+      "type": "file"
+    },
+    {
+      "path": "章节/第02章-沉默的四秒.md",
       "accessCount": 9,
-      "lastAccessed": 1778314807382,
+      "lastAccessed": 1778347809041,
       "type": "file"
     },
     {
@@ -81,9 +115,9 @@
       "type": "file"
     },
     {
-      "path": "章节/第02章-沉默的四秒.md",
-      "accessCount": 7,
-      "lastAccessed": 1778314768737,
+      "path": "章节/第08章-加州vs北京.md",
+      "accessCount": 6,
+      "lastAccessed": 1778347912710,
       "type": "file"
     },
     {
@@ -111,9 +145,15 @@
       "type": "file"
     },
     {
-      "path": "章节/第08章-加州vs北京.md",
+      "path": "worldview/db/queries/_common.py",
       "accessCount": 3,
-      "lastAccessed": 1778322601160,
+      "lastAccessed": 1778346029696,
+      "type": "file"
+    },
+    {
+      "path": ".claude/skills/timeline-check/SKILL.md",
+      "accessCount": 3,
+      "lastAccessed": 1778346079202,
       "type": "file"
     },
     {
@@ -138,6 +178,24 @@
       "path": "worldview/人物档案/Kevin-OBrien（美国年轻程序员）.md",
       "accessCount": 2,
       "lastAccessed": 1778261412893,
+      "type": "file"
+    },
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 2,
+      "lastAccessed": 1778345682322,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/pov_check.py",
+      "accessCount": 2,
+      "lastAccessed": 1778345909106,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/timeline_check.py",
+      "accessCount": 2,
+      "lastAccessed": 1778345993758,
       "type": "file"
     },
     {
@@ -171,9 +229,45 @@
       "type": "file"
     },
     {
-      "path": "章节/第11章-军事维度的转向.md",
+      "path": "worldview/db/queries/q_year_window.sh",
       "accessCount": 1,
-      "lastAccessed": 1778341310553,
+      "lastAccessed": 1778345367393,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/q_character.sh",
+      "accessCount": 1,
+      "lastAccessed": 1778345371689,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/q_event_search.sh",
+      "accessCount": 1,
+      "lastAccessed": 1778345374646,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/q_fact.sh",
+      "accessCount": 1,
+      "lastAccessed": 1778345382791,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/queries/q_causes.sh",
+      "accessCount": 1,
+      "lastAccessed": 1778345391960,
+      "type": "file"
+    },
+    {
+      "path": ".claude/skills/pov-check/SKILL.md",
+      "accessCount": 1,
+      "lastAccessed": 1778345657842,
+      "type": "file"
+    },
+    {
+      "path": "worldview/db/seed_characters_extended.sql",
+      "accessCount": 1,
+      "lastAccessed": 1778346967670,
       "type": "file"
     }
   ],
