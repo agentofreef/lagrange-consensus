@@ -87,6 +87,12 @@
       "type": "file"
     },
     {
+      "path": "章节/第06章-旧美国之死.md",
+      "accessCount": 5,
+      "lastAccessed": 1778318810089,
+      "type": "file"
+    },
+    {
       "path": "worldview/06-soft-influence.md",
       "accessCount": 2,
       "lastAccessed": 1778259950175,
@@ -138,12 +144,6 @@
       "path": "worldview/人物档案/赵建军（中国月轨指挥官）.md",
       "accessCount": 1,
       "lastAccessed": 1778257977326,
-      "type": "file"
-    },
-    {
-      "path": "章节/第06章-旧美国之死.md",
-      "accessCount": 1,
-      "lastAccessed": 1778317520123,
       "type": "file"
     }
   ],
