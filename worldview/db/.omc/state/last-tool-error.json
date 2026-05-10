@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd worldview/db && sqlite3 worldview.db \\\"SELECT id, year, half, domain, title, visibility_level FROM facts WHERE (title LIKE '%月球%' AND year BETWEEN 2035 AND 2038) OR (title LIKE '%美债%') ...",
-  "error": "Exit code 1\n(eval):cd:1: no such file or directory: worldview/db",
-  "timestamp": "2026-05-09T22:29:01.620Z",
+  "tool_input_preview": "{\"command\":\"grep -nE \\\"32 万|78 万|7\\\\.8 万|350 万|3\\\\.3 倍|4\\\\.3 倍|+195%|+233%|+333%\\\" \\\"/Users/tom/novel/章节/第14章-民众的5年.md\\\"\",\"description\":\"Final Ch 14 scan\"}",
+  "error": "Exit code 2\nugrep: error: error at position 53\n.8 万|350 万|3\\.3 倍|4\\.3 倍|+195%|+233%|+333%\nempty (sub)expression___/",
+  "timestamp": "2026-05-10T10:13:07.792Z",
   "retry_count": 1
 }
