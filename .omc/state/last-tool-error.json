@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"python3 worldview/db/queries/timeline_check.py --resolve-fact \\\"嫦娥村扩建\\\" 2>&1\",\"description\":\"resolve嫦娥村扩建\"}",
-  "error": "Exit code 1\n\n=== resolve_fact ===\nERROR: no match: 嫦娥村扩建",
-  "timestamp": "2026-05-09T17:11:44.815Z",
-  "retry_count": 4
+  "tool_input_preview": "{\"command\":\"git add \\\"章节/第18章-萌芽期.md\\\" \\\"/Users/tom/.claude/projects/-Users-tom-novel/memory/feedback_chinese_only.md\\\" && git status\",\"description\":\"Stage Ch 18 + memory update\"}",
+  "error": "Exit code 128\n致命错误：/Users/tom/.claude/projects/-Users-tom-novel/memory/feedback_chinese_only.md：'/Users/tom/.claude/projects/-Users-tom-novel/memory/feedback_chinese_only.md' 在位于 '/Users/tom/novel' 的仓库之外",
+  "timestamp": "2026-05-10T16:37:19.420Z",
+  "retry_count": 1
 }

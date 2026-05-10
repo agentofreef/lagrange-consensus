@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"grep -nE \\\"32 万|78 万|7\\\\.8 万|350 万|3\\\\.3 倍|4\\\\.3 倍|+195%|+233%|+333%\\\" \\\"/Users/tom/novel/章节/第14章-民众的5年.md\\\"\",\"description\":\"Final Ch 14 scan\"}",
-  "error": "Exit code 2\nugrep: error: error at position 53\n.8 万|350 万|3\\.3 倍|4\\.3 倍|+195%|+233%|+333%\nempty (sub)expression___/",
-  "timestamp": "2026-05-10T10:13:07.792Z",
+  "tool_input_preview": "{\"command\":\"f=章节/第19章-拉格朗日点共识.md\\necho \\\"=== $f 格式校验 ===\\\"\\necho \\\"  '—— ' (em-dash + space): $(grep -c '—— ' $f)\\\"\\necho \\\"  ' ——' (space + em-dash): $(grep -c ' ——' $f)\\\"\\necho \\\"  '——\\\\$' (line-end...",
+  "error": "Exit code 1\n=== 章节/第19章-拉格朗日点共识.md 格式校验 ===\nugrep: warning: 章节/第19章-拉格朗日点共识.md: No such file or directory\n  '—— ' (em-dash + space): \nugrep: warning: 章节/第19章-拉格朗日点共识.md: No such file or directory\n  ' ——' (space + em-dash): \nugrep: warning: 章节/第19章-拉格朗日点共识.md: No such file or directory\n  '——$' (line-end em-dash): \nugrep: warning: 章节/第19章-拉格朗日点共识.md: No such file or directory\n  '——\"' (em-dash + quote): \nCan't open ç« è/ç¬¬19ç« -ææ ¼ææ¥ç¹å±è¯.md: No such file or directory.\n  Han-space-Han...",
+  "timestamp": "2026-05-10T17:17:06.726Z",
   "retry_count": 1
 }
