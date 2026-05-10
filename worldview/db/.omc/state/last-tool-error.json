@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"python3 /Users/tom/novel/worldview/db/queries/timeline_check.py --resolve-fact \\\"民众实际购买力\\\" 2>&1; echo \\\"---\\\"; python3 /Users/tom/novel/worldview/db/queries/timeline_check.py --resolve-fac...",
-  "error": "Exit code 1\n\n=== resolve_fact ===\nid=653 | year=2064 | half=1 | domain=民生 | title=全球能源价格\"过剩\"固定化的民众红利 | visibility_level=1 | has_public_lie=1 | importance=5\n---\n\n=== resolve_fact ===\nERROR: no match: Mackenzie 当选",
-  "timestamp": "2026-05-09T18:10:53.018Z",
+  "tool_input_preview": "{\"command\":\"cd worldview/db && sqlite3 worldview.db \\\"SELECT id, year, half, domain, title, visibility_level FROM facts WHERE (title LIKE '%月球%' AND year BETWEEN 2035 AND 2038) OR (title LIKE '%美债%') ...",
+  "error": "Exit code 1\n(eval):cd:1: no such file or directory: worldview/db",
+  "timestamp": "2026-05-09T22:29:01.620Z",
   "retry_count": 1
 }

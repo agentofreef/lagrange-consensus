@@ -53,7 +53,9 @@ EXTENSIONS=(
     "seed_characters_extended.sql"
     "seed_chapter13_6year_prep.sql"
     "seed_chapter14_populace.sql"
+    "seed_chapter15_storm.sql"
     "seed_chapter16_red_phone.sql"
+    "seed_chapter17_36hours.sql"
     "seed_fixes_logic.sql"
 )
 
