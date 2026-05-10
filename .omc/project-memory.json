@@ -62,92 +62,110 @@
   "hotPaths": [
     {
       "path": "章节/第18章-萌芽期.md",
-      "accessCount": 125,
-      "lastAccessed": 1778431757945,
+      "accessCount": 128,
+      "lastAccessed": 1778438018617,
       "type": "file"
     },
     {
       "path": "worldview/小说素材/章节目录.md",
-      "accessCount": 49,
-      "lastAccessed": 1778279127048,
+      "accessCount": 51,
+      "lastAccessed": 1778438612075,
       "type": "file"
     },
     {
       "path": "章节/第14章-民众的5年.md",
-      "accessCount": 38,
-      "lastAccessed": 1778407979248,
+      "accessCount": 39,
+      "lastAccessed": 1778437079418,
       "type": "file"
     },
     {
       "path": "章节/第16章-红色电话.md",
-      "accessCount": 30,
-      "lastAccessed": 1778431636451,
+      "accessCount": 31,
+      "lastAccessed": 1778437080542,
       "type": "file"
     },
     {
       "path": "章节/第15章-暴风雨前.md",
-      "accessCount": 26,
-      "lastAccessed": 1778408127616,
+      "accessCount": 27,
+      "lastAccessed": 1778437080122,
       "type": "file"
     },
     {
       "path": "章节/第09章-双轨叙事.md",
-      "accessCount": 22,
-      "lastAccessed": 1778347990321,
+      "accessCount": 23,
+      "lastAccessed": 1778437069417,
       "type": "file"
     },
     {
       "path": "章节/第17章-民众的36小时.md",
-      "accessCount": 21,
-      "lastAccessed": 1778431405224,
+      "accessCount": 22,
+      "lastAccessed": 1778437081318,
       "type": "file"
     },
     {
       "path": "章节/第11章-军事维度的转向.md",
-      "accessCount": 15,
-      "lastAccessed": 1778347490211,
+      "accessCount": 16,
+      "lastAccessed": 1778437077414,
       "type": "file"
     },
     {
       "path": "章节/第03章-春天.md",
-      "accessCount": 13,
-      "lastAccessed": 1778347871410,
+      "accessCount": 14,
+      "lastAccessed": 1778437066205,
       "type": "file"
     },
     {
       "path": "章节/第04章-印第安纳的工厂.md",
-      "accessCount": 11,
-      "lastAccessed": 1778314847069,
+      "accessCount": 12,
+      "lastAccessed": 1778437066696,
       "type": "file"
     },
     {
       "path": "章节/第12章-边界1米.md",
-      "accessCount": 10,
-      "lastAccessed": 1778347511884,
+      "accessCount": 11,
+      "lastAccessed": 1778437078272,
       "type": "file"
     },
     {
       "path": "章节/第02章-沉默的四秒.md",
-      "accessCount": 9,
-      "lastAccessed": 1778347809041,
+      "accessCount": 10,
+      "lastAccessed": 1778437065603,
       "type": "file"
     },
     {
       "path": "章节/第05章-浙江的工厂.md",
-      "accessCount": 8,
-      "lastAccessed": 1778316846236,
+      "accessCount": 9,
+      "lastAccessed": 1778437067451,
       "type": "file"
     },
     {
       "path": "章节/第01章-文件.md",
-      "accessCount": 7,
-      "lastAccessed": 1778314740297,
+      "accessCount": 8,
+      "lastAccessed": 1778437065028,
+      "type": "file"
+    },
+    {
+      "path": "章节/第19章-拉格朗日共识.md",
+      "accessCount": 8,
+      "lastAccessed": 1778438156278,
       "type": "file"
     },
     {
       "path": "章节/第08章-加州vs北京.md",
+      "accessCount": 7,
+      "lastAccessed": 1778437068980,
+      "type": "file"
+    },
+    {
+      "path": "章节/第06章-旧美国之死.md",
       "accessCount": 6,
-      "lastAccessed": 1778347912710,
+      "lastAccessed": 1778437067926,
+      "type": "file"
+    },
+    {
+      "path": "章节/第07章-嫦娥村.md",
+      "accessCount": 6,
+      "lastAccessed": 1778437068324,
       "type": "file"
     },
     {
@@ -157,21 +175,9 @@
       "type": "file"
     },
     {
-      "path": "章节/第06章-旧美国之死.md",
-      "accessCount": 5,
-      "lastAccessed": 1778318810089,
-      "type": "file"
-    },
-    {
-      "path": "章节/第07章-嫦娥村.md",
-      "accessCount": 5,
-      "lastAccessed": 1778320992013,
-      "type": "file"
-    },
-    {
       "path": "章节/第10章-科技分水岭.md",
-      "accessCount": 4,
-      "lastAccessed": 1778340541690,
+      "accessCount": 5,
+      "lastAccessed": 1778437069858,
       "type": "file"
     },
     {
@@ -190,6 +196,12 @@
       "path": "worldview/db/seed_characters_extended.sql",
       "accessCount": 3,
       "lastAccessed": 1778362709034,
+      "type": "file"
+    },
+    {
+      "path": "章节/第13章-6年准备.md",
+      "accessCount": 3,
+      "lastAccessed": 1778437078698,
       "type": "file"
     },
     {
@@ -238,12 +250,6 @@
       "path": "worldview/db/seed_chapter14_populace.sql",
       "accessCount": 2,
       "lastAccessed": 1778350374819,
-      "type": "file"
-    },
-    {
-      "path": "章节/第13章-6年准备.md",
-      "accessCount": 2,
-      "lastAccessed": 1778354908570,
       "type": "file"
     },
     {
