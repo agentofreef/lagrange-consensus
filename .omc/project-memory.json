@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1778346542043,
+  "lastScanned": 1778443645578,
   "projectRoot": "/Users/tom/novel",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "worldview",
       "purpose": null,
       "fileCount": 16,
-      "lastAccessed": 1778346542038,
+      "lastAccessed": 1778443645573,
       "keyFiles": [
         "01-cartel-overview.md",
         "02-tier1-smart.md",
@@ -48,8 +48,8 @@
     "章节": {
       "path": "章节",
       "purpose": null,
-      "fileCount": 12,
-      "lastAccessed": 1778346542039,
+      "fileCount": 20,
+      "lastAccessed": 1778443645574,
       "keyFiles": [
         "第01章-文件.md",
         "第02章-沉默的四秒.md",
@@ -74,8 +74,8 @@
     },
     {
       "path": "章节/第14章-民众的5年.md",
-      "accessCount": 39,
-      "lastAccessed": 1778437079418,
+      "accessCount": 40,
+      "lastAccessed": 1778443744007,
       "type": "file"
     },
     {
@@ -208,6 +208,12 @@
       "path": "章节/第13章-6年准备.md",
       "accessCount": 3,
       "lastAccessed": 1778437078698,
+      "type": "file"
+    },
+    {
+      "path": "章节/第21章-经济重塑.md",
+      "accessCount": 3,
+      "lastAccessed": 1778445052625,
       "type": "file"
     },
     {
